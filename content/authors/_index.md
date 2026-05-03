@@ -3,7 +3,7 @@ name: Sagar Rayamajhi, Ph.D.
 role: Scientist
 organizations:
   - name: Stanford University
-    url: https://www.kumc.edu
+    
 
 bio: I study extracellular vesicles in cancer.
 
