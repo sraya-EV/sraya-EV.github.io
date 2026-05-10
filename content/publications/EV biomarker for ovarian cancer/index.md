@@ -40,6 +40,6 @@ tags:
 
 image:
   caption: ""
-  focal_point: "Center"
+  focal_point: "Smart"
   preview_only: false
 ---
