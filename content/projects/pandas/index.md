@@ -1,15 +1,9 @@
 ---
-title: Pandas
-date: 2023-10-26
-links:
-  - type: site
-    url: https://github.com/pandas-dev/pandas
-tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+title: Designer EVs
+date: 2026-05-17
+
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Designer extracellular vesicles (EVs) are engineered EVs to achieve desired functionality such as targeting, tracking, and yield optimization. 
 
-<!--more-->
+
