@@ -14,13 +14,13 @@ name:
 status:
   icon: "🔬"
 
-role: Life Science Research Professional
+role: Scientist
 
 bio: |
   I am a cancer biologist and nanomedicine researcher working on extracellular vesicles (EVs) in cancer. My research focuses on oncogenic signaling pathways in sarcoma, EV-mediated cancer progression and metastasis, and EV-based liquid biopsy biomarkers for early cancer detection. I have published 25 peer-reviewed papers (11 as first author), secured independent grant funding as PI, mentored 9 trainees, and delivered 33 scientific presentations including 8 invited talks.
 
 affiliations:
-  - name: Stanford University, Department of Pediatrics
+  - name: Stanford University
     url: https://med.stanford.edu/
 
 links:
