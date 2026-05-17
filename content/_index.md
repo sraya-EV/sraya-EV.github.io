@@ -62,9 +62,9 @@ sections:
       view: citation
   
   - block: collection
-    id: news
+    id: blog
     content:
-      title: Recent News
+      title: Recent Blogs
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
