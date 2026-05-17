@@ -51,4 +51,8 @@ This work demonstrates that hybridizing immune cell-derived EVs with synthetic l
 
 These results lay a foundation for scalable, biomimetic EV-based drug delivery platforms for cancer therapeutics.
 
+## Research Impact
+
+This work has been cited over **450 times**, reflecting its broad influence on the fields of EV-based drug delivery, biomimetic nanomedicine, and cancer therapeutics. It has been referenced in studies on exosome engineering, hybrid nanoparticle design, immune cell-derived drug carriers, and tumor-targeted delivery platforms worldwide.
+
 **Citation:** Rayamajhi S, Nguyen TDT, Marasini R, Aryal S. Macrophage-derived exosome-mimetic hybrid vesicles for tumor targeted drug delivery. *Acta Biomaterialia.* 2019;94:482–494. https://doi.org/10.1016/j.actbio.2019.05.054
