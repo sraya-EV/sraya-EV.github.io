@@ -1,33 +1,32 @@
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
+
 name:
   display: Sagar Rayamajhi, Ph.D.
   given: Sagar
   family: Rayamajhi
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  
-postnominals:
-  - PhD
+  alternate: ''
+  pronunciation: ''
+  postnominals:
+    - PhD
+
 status:
-  icon: "☕️"
-role: Scientist
+  icon: "🔬"
+
+role: Life Science Research Professional
+
 bio: |
-  I work in extracellular vesicles research in cancer.
+  I am a cancer biologist and nanomedicine researcher working on extracellular vesicles (EVs) in cancer. My research focuses on oncogenic signaling pathways in sarcoma, EV-mediated cancer progression and metastasis, and EV-based liquid biopsy biomarkers for early cancer detection. I have published 25 peer-reviewed papers (11 as first author), secured independent grant funding as PI, mentored 9 trainees, and delivered 33 scientific presentations including 8 invited talks.
 
 affiliations:
-  - name: Stanford University
-    url: https://ai.meta.com/
+  - name: Stanford University, Department of Pediatrics
+    url: https://med.stanford.edu/
 
 links:
   - icon: at-symbol
     url: mailto:sagar.srayamajhi@gmail.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/sagar-rayamajhi/
   - icon: academicons/google-scholar
@@ -36,69 +35,85 @@ links:
     url: https://orcid.org/0000-0001-5420-7873
 
 interests:
-  - Extracellular vesicles in Cancer 
-  - Oncogenic signaling
-  - Drug Delivery
-  - Biologics
+  - Extracellular Vesicles & Liquid Biopsy
+  - Cancer Biomarker Discovery
+  - Oncogenic Signaling in Sarcoma
+  - Nanomedicine & Drug Delivery
+  - Spatial Transcriptomics & Proteomics
 
 education:
-  - degree: PhD Chemistry
+  - degree: PhD in Chemistry (Biological Track)
     institution: Kansas State University
     start: 2017-08
     end: 2021-05-30
     summary: |
-      Thesis on engineering synthetic and natural vesicular system for tumor-targeted drug delivery.
+      Thesis on engineering synthetic and biological vesicular systems for tumor-targeted drug delivery. Advisor: Dr. Santosh Aryal.
     button:
-      text: Download dissertation
-      url: /https://www.proquest.com/openview/06605965f95cda55e3ba04199f01c3b2/1?pq-origsite=gscholar&cbl=18750&diss=y
+      text: View dissertation
+      url: https://www.proquest.com/openview/06605965f95cda55e3ba04199f01c3b2/1?pq-origsite=gscholar&cbl=18750&diss=y
       icon: hero/arrow-down-tray
+  - degree: B.Tech. in Biotechnology
+    institution: Kathmandu University, Nepal
+    end: 2015-12-31
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Life Science Research Professional 2
+    org: Stanford University
+    start: 2025-09-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Department of Pediatrics. Supervisor: Dr. Raya Saab. Research focus: oncogenic signaling pathways in sarcoma, cell-surface protein interactome, and EV-mediated signaling driving cancer progression and metastasis.
+  - role: Postdoctoral Fellow
+    org: University of Kansas Medical Center
+    start: 2021-05-01
+    end: 2025-08-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Department of Pathology and Laboratory Medicine. Supervisor: Dr. Andrew K. Godwin. Research focus: EV-based circulating biomarkers for early detection of ovarian cancer.
 
 skills:
-  - name: Technical Skills
+  - name: Experimental Techniques
     items:
-      - label: Python
+      - label: EV Isolation & Characterization (DLS, NTA, TEM, SP-IRIS)
         level: 5
-      - label: Machine Learning
+      - label: LC-MS/MS Proteomics & Spatial Transcriptomics
         level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
+      - label: Flow Cytometry & Confocal Imaging
+        level: 5
+      - label: Capillary Western Blot (WES) & ELISA
+        level: 5
+      - label: Lipid Nanoparticle Formulation & Drug Delivery
+        level: 5
+  - name: Research & Leadership
     items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
+      - label: Grant Writing (PI, $13K secured)
         level: 4
-      - label: Grant Proposals
+      - label: Scientific Writing (25 publications)
+        level: 5
+      - label: Mentoring (9 trainees)
+        level: 5
+      - label: Multi-institutional Collaboration ($5M+ managed)
         level: 4
 
 languages:
   - name: English
     level: 5
-    label: Native
-  - name: Spanish
-    level: 4
     label: Fluent
+  - name: Nepali
+    level: 5
+    label: Native
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Graduate Student Summer Stipend Award
+    awarder: Johnson Cancer Research Center, Kansas State University
+    date: "2021-06-01"
+    summary: Awarded for excellence in graduate research in cancer nanomedicine.
+    icon: hero/trophy
+  - title: Graduate Research Award — Phi Zeta Upsilon
+    awarder: Department of Chemistry, Kansas State University
+    date: "2020-06-01"
+    summary: Recognized for outstanding graduate research contributions.
+    icon: hero/trophy
+  - title: Best Presentation Award
+    awarder: K-State Graduate Research, Arts, and Discovery Forum
+    date: "2019-03-01"
+    summary: First place award for research presentation on hybrid exosomes for tumor-targeted drug delivery.
     icon: hero/trophy
