@@ -218,7 +218,7 @@ hugoblox:
   # Search engine site verification codes
   # ────────────────────────────────────────────────────────────────────────────
   verification:
-    google: ""
+    google: "google-site-verification=XOQkdkXjqxw09XxsvZMAC5liq3Bv7vpe5rVgRE19RFM"
     bing: ""
     baidu: ""
     yandex: ""
