@@ -1,7 +1,7 @@
 ---
 title: "Engineering Hybrid Exosomes for Tumor-Targeted Drug Delivery"
 date: 2019-08-01
-summary: "We engineered macrophage-derived hybrid exosomes by fusing natural extracellular vesicles with synthetic liposomes, creating a biomimetic nanoplatform that selectively targets cancer cells and delivers doxorubicin with enhanced potency.Cited 450+"
+summary: "We engineered macrophage-derived hybrid exosomes by fusing natural extracellular vesicles with synthetic liposomes, creating a biomimetic nanoplatform that selectively targets cancer cells and delivers doxorubicin with enhanced potency.Cited 450+ times."
 tags:
   - Publications
   - Drug Delivery
